@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jy1779/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jy1779/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+nginx_1.9
+https://code.aliyun.com/jy1779/nginx_1.9.git
+myproject
+https://code.aliyun.com/jy1779/myproject.git
+zabbix3.2
+https://code.aliyun.com/jy1779/zabbix3.2.git
+php7.0
+https://code.aliyun.com/jy1779/php7.0.git
+varnish4.0
+https://code.aliyun.com/jy1779/varnish4.0.git
+docker_install
+https://code.aliyun.com/jy1779/docker_install.git
+jenkins
+https://code.aliyun.com/jy1779/jenkins.git
+mysql_5.6
+https://code.aliyun.com/jy1779/mysql_5.6.git
+ExtendedMysqlSlave
+https://code.aliyun.com/jy1779/ExtendedMysqlSlave.git
+mysql-5.6-xtrabackup
+https://code.aliyun.com/jy1779/mysql-5.6-xtrabackup.git
+command
+https://code.aliyun.com/jy1779/command.git
+be
+https://code.aliyun.com/jy1779/be.git
+redis3.2
+https://code.aliyun.com/jy1779/redis3.2.git
+tomcat8
+https://code.aliyun.com/jy1779/tomcat8.git
+python3.5
+https://code.aliyun.com/jy1779/python3.5.git
+elk
+https://code.aliyun.com/jy1779/elk.git
